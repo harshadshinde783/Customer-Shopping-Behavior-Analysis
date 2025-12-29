@@ -9,7 +9,7 @@ This project analyzes customer shopping behavior using transactional data to unc
 - Missing Values: Review ratings handled using median imputation
 
 ## 🛠 Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python (Pandas, NumPy)
 - SQL
 - Power BI
 - Jupyter Notebook
