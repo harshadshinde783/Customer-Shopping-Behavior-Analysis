@@ -35,7 +35,7 @@ This project analyzes customer shopping behavior using transactional data to unc
 - Interactive filters
 
 ## 📈 Dashboard Preview
-(https://github.com/harshadshinde783/Customer-Shopping-Behavior-Analysis/blob/main/Dashboard%20image/dashboard_screenshot.png)
+![Dashboard](https://github.com/harshadshinde783/Customer-Shopping-Behavior-Analysis/blob/main/Dashboard%20image/dashboard_screenshot.png)
 
 ## 💡 Key Business Insights
 - Clothing category generates the highest revenue
