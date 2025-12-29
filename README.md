@@ -48,7 +48,3 @@ This project analyzes customer shopping behavior using transactional data to unc
 - Target high-value customer segments
 - Optimize discount strategies
 - Focus marketing on top-performing categories
-
-## 👤 Author
-Harshad Shinde  
-Aspiring Data Analyst
